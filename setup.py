@@ -6,5 +6,6 @@ setup(name='oclcFileTransferq',
       install_requires=[
           'celery==3.1.22',
           'pymongo==3.2.1',
+          'requests',
       ],
 )
